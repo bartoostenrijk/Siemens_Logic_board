@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name mainboardv3.4-eagle-import)(type Legacy)(uri ${KIPRJMOD}/mainboardv3.4-eagle-import.lib)(options "")(descr ""))
+  (lib (name LM2907)(type Legacy)(uri /home/ina/Documents/Peugeot/Logic_board/Imported_footprints/LM2917N-8_NOPB/LM2917N-8_NOPB.lib)(options "")(descr ""))
+  (lib (name LM331N)(type Legacy)(uri /home/ina/Documents/Peugeot/Logic_board/Imported_footprints/LM331N_NOPB/LM331N_NOPB.lib)(options "")(descr ""))
+)
